@@ -1,4 +1,4 @@
-The intent of this project is to supplement the work I am doing researching renewable energy. 
+The intent of this project is to suppliment the work I am doing researching renewable energy. 
 
 - This dataset was found on Kaggle: https://www.kaggle.com/datasets/vstacknocopyright/electricity
 - Data explanation: 
