@@ -13,7 +13,10 @@ The intent of this project is to supplement the work I am doing researching ener
     - transfer: scheduled electricity transfer between both states, normalized between 0 and 1
     - class label: identifies the change of the price (UP or DOWN) in New South Wales relative to a moving average of the last 24 hours (and removes the impact of longer-term price trends).
 
-
+# Analysis of data
+- Split of labels 
+    - We have a perfect slit of labels 50-50 
+- 
 
 
 
