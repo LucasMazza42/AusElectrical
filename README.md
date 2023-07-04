@@ -24,7 +24,8 @@ The intent of this project is to supplement the work I am doing researching ener
   <img width="912" alt="Screenshot 2023-07-02 at 11 16 01 PM" src="https://github.com/LucasMazza42/Energy-Price-Movement-Modeling/assets/47802441/59ef82fc-d697-4f61-bbc5-49cd603932d9">
       - vicedemand and nswdemand show a little bit of a correlated relationship
 - Encoding season based on date:
-    <img width="731" alt="Screenshot 2023-07-02 at 11 18 21 PM" src="https://github.com/LucasMazza42/Energy-Price-Movement-Modeling/assets/47802441/e66f49a6-73f4-4885-8918-f85da81d9aa2">
+
+<img width="731" alt="Screenshot 2023-07-02 at 11 18 21 PM" src="https://github.com/LucasMazza42/Energy-Price-Movement-Modeling/assets/47802441/e66f49a6-73f4-4885-8918-f85da81d9aa2">
 <img width="741" alt="Screenshot 2023-07-02 at 11 18 35 PM" src="https://github.com/LucasMazza42/Energy-Price-Movement-Modeling/assets/47802441/e04c64d5-73ca-43d0-b10e-99c1cd786edb">
 
 
