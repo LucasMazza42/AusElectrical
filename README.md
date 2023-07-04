@@ -70,7 +70,7 @@ The intent of this project is to supplement the work I am doing researching ener
     - F1 score: represents the mean score of the precision and recall of the model = 2 * (precision * recall) / (precision + recall)
         - Score ranges between 0 and 1. We have a score of .91 which is extremely good. 
     - Finally, we have the confusion matrix: 
-        <img width="861" alt="Screenshot 2023-07-03 at 8 43 00 PM" src="https://github.com/LucasMazza42/Energy-Price-Movement-Modeling/assets/47802441/3c523eb5-254f-4902-ad08-f86b493e7b7d">
+<img width="861" alt="Screenshot 2023-07-03 at 8 43 00 PM" src="https://github.com/LucasMazza42/Energy-Price-Movement-Modeling/assets/47802441/3c523eb5-254f-4902-ad08-f86b493e7b7d">
 
         - 572 false positives
         - 515 false negatives 
